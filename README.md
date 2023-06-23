@@ -12,4 +12,4 @@ To run:
 ./hw2_tocnf.sh <input_grammar_file> <output_grammar_file>
 ```
 
-HW2 OF LING571 (10/13/2021) 
+HW2 OF LING571 (10/20/2021) 
